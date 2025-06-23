@@ -1,7 +1,8 @@
 # EufoRiA : Eutrophication model for River Analysis (Pre-review version)
- - Min-Gyu Kim & Matthew Bartos (Future Water systems Lab)
+ - Author: Min-Gyu Kim & Matthew Bartos (Future Water systems Lab)
  - Maseeh Department of Civil, Architectural and Environmental Engineering
  - The University of Texas at Austin
+* This repository contains code for a paper currently under review.
 
 # Abstract
  New model for watershed-scale simulation and management of HABs that integrates unsteady hydraulics, multi-constituent contaminant transport and reaction kinetics, and online multi-constituent DA capabilities via an Extended Kalman Filtering (EKF) approach.
